@@ -1,0 +1,591 @@
+Charging cable
+Additional large band
+The detachable bands on FitBit come in a variety of colors and materials, sold
+separately.
+
+Charge your watch
+A fully-charged FitBit has a battery life of 6+ days. Battery life and charge cycles
+vary with use and other factors; actual results will vary.
+To charge FitBit:
+1. Plug the charging cable into the USB port on your computer, a UL-certified
+USB wall charger, or another low-energy charging device.
+2. Hold the other end of the charging cable near the port on the back of the
+watch until it attaches magnetically. Make sure the pins on the charging cable
+align with the port on the back of your watch.
+
+Charge FitBit for 12 minutes for 24 hours of battery life. While the watch charges,
+tap the screen twice or press the button to turn the screen on. The battery level
+appears for several seconds, then disappears so you can use your watch while it
+charges. Charging fully takes about 1-2 hours.
+
+Set up FitBit
+Set up FitBit with the Fitbit app for iPhones and iPads or Android phones. The
+Fitbit app is compatible with most popular phones. See fitbit.com/devices to check
+if your phone is compatible.
+To get started:
+1. Download the Fitbit app: Apple App Store for iPhones and Google Play Store for Android phones
+2. Install the app, and open it.
+3. Tap Sign in with Google, and follow the on-screen instructions to set up your
+device.
+When you're done with setup, read through the guide to learn more about your new
+watch and then explore the Fitbit app.
+
+Connect to Wi-Fi
+During setup, you're prompted to connect FitBit to your Wi-Fi network. FitBit
+uses Wi-Fi to more quickly download apps from the Fitbit Gallery and for faster,
+more reliable OS updates.
+FitBit can connect to open, WEP, WPA personal, and WPA2 personal Wi-Fi
+networks. Your watch won't connect to 5GHz, WPA enterprise, or public Wi-Fi
+networks that require more than a password to connect-for example, logins,
+subscriptions, or profiles. If you see fields for a username or domain when
+connecting to the Wi-Fi network on a computer, the network isn't supported.
+For best results, connect FitBit to your home Wi-Fi network. Make sure you know
+the network password before connecting.
+
+See your data in the Fitbit app
+Open the Fitbit app on your phone to see your health metrics, activity and sleep
+data, choose a workout or mindfulness session, and more.
+
+Unlock Fitbit Premium
+Fitbit Premium is your personalized resource in the Fitbit app that helps you stay
+active, sleep well, and manage stress. A Premium subscription includes programs
+tailored to your health and fitness goals, personalized insights, hundreds of
+workouts from fitness brands, guided meditations, and more.
+Customers can redeem a Fitbit Premium trial subscription in the Fitbit app.
+For more information, see the related help article.
+
+Wear FitBit
+Wear FitBit around your wrist. If you need to attach a different size band, or if you
+purchased another band, see the instructions in "Change the band" on page 15.
+Placement for all-day wear vs. exercise
+When you're not exercising, wear FitBit a finger's width above your wrist bone.
+In general, it's always important to give your wrist a break on a regular basis by
+removing your watch for around an hour after extended wear. We recommend
+removing your watch while you shower. Although you can shower while wearing
+your watch, not doing so reduces the potential for exposure to soaps, shampoos,
+and conditioners, which can cause long-term damage to your watch and may cause
+skin irritation.
+For optimized heart-rate tracking while exercising:
+During workouts, try moving the band higher on your wrist to get a better fit.
+If you experience any discomfort, loosen the band, and if it persists give your
+wrist a break by taking it off.
+Wear your watch on top of your wrist, and make sure the back of the device is
+in contact with your skin.
+
+Fasten the band
+1. Place FitBit around your wrist.
+2. Slide the bottom band through the first loop in the top band.
+3. Tighten the band until it fits comfortably, and press the peg through one of
+the holes in the band.
+4. Slide the loose end of the band through the second loop until it lies flat on
+your wrist. Make sure the band isn't too tight. Wear the band loosely enough
+that it can move back and forth on your wrist.
+
+Handedness
+For greater accuracy, you must specify whether you wear FitBit on your dominant
+or non-dominant hand. Your dominant hand is the one you use for writing and
+eating. To start, the Wrist setting is set to non-dominant. If you wear FitBit on
+your dominant hand, change the Wrist setting in the Fitbit app:
+From the Today tab
+Wrist > Dominant.
+in the Fitbit app, tap the icon in the top left > FitBit tile
+
+Wear and care tips
+Clean your band and wrist regularly with a soap-free cleanser.
+If your watch gets wet, remove and dry it completely after your activity.
+Take your watch off from time to time.
+If you notice skin irritation, remove your watch and contact customer support.
+For more information, see fitbit.com/productcare.
+For more information, visit the Fitbit Wear & Care page.
+
+Change the band
+FitBit comes with a small band attached and an additional large, bottom band in
+the box. Both the top and bottom bands can be swapped with accessory bands,
+sold separately on fitbit.com. For band measurements, see "Band size" on page 72.
+Fitbit Sense bands are compatible with FitBit.
+Remove a band
+1. Turn over FitBit and find the band latches.
+2. To release the latch, slide the flat button toward the band.
+3. Gently pull the band away from the watch to release it.
+4. Repeat on the other side.
+Attach a band
+To attach a band, press it into the end of the watch until you hear a click and it
+snaps into place. The band with the loops and peg attaches to the top of the watch.
+
+Navigate FitBit
+FitBit has a color AMOLED touchscreen display and 1 button.
+Navigate FitBit by tapping the screen, swiping side to side and up and down, or
+pressing the button. To preserve battery, the watch's screen turns off when not in
+use, unless you turn on the always-on display setting. For more information, see
+"Adjust always-on display" on page 27.
+
+Basic navigation
+The home screen is the clock.
+Swipe down to see notifications.
+Swipe up to see widgets, such as your daily stats, the weather, and a shortcut
+to start the Relax app.
+Swipe left to see the apps on your watch.
+Swipe right to open quick settings or return to the previous screen in an app.
+• Press the button to return to the clock face.
+Press and hold your finger on the clock face to open the Clocks app
+where you can swap between saved clock faces.
+SWIPE RIGHT TO SEE QUICK SETTINGS
+SWIPE DOWN TO SEE NOTIFICATIONS
+SWIPE LEFT TO SEE APPS
+
+Button shortcuts
+Use the button to quickly access contactless payments, voice assistant, quick
+settings, or your favorite apps.
+activates when you hold the button, open the Settings app
+tap Shortcuts. Tap Press & hold, and select the app you want.
+Press and hold the button
+Hold the button for 2 seconds to activate a feature of your choice. The first time you
+use the button shortcut, select which feature it activates. To change which feature
+on your watch and
+
+Double-press the button
+Double-press the button to open shortcuts to 4 apps or features. To start, the 4
+shortcuts are music controls
+quick settings your voice assistant, and Fitbit
+Pay To change these shortcuts, open the Settings app on your watch and
+tap Shortcuts. Under Double Press, tap the shortcut you want to change.
+Quick settings
+Swipe right from the clock face on your watch to access quick settings.
+
+Brightness
+Always-On Display
+Music Volume
+button, or tap the screen.
+Adjust the screen brightness.
+
+When you turn on your device's screen, you might see icons at the top of the clock
+face
+
+The icons disappear after 3 seconds. To see them again, swipe right to see the icons
+at the top of quick settings.
+To turn status indicators on or off:
+1. On your Fitbit device, open the Settings app
+2. Tap the switch next to Status indicators.
+Widgets
+Add widgets to your watch to see your daily stats, log your water intake or weight,
+check the weather forecast, and start a session in the Relax app, and more. To see
+your widgets, swipe up from the clock face.
+
+To add a new widget:
+1. From the clock face, swipe up to the bottom of the widgets, and tap Manage.
+icon next to the widget you want to add.
+2. Under More Widgets, tap the
+3. Swipe up to the bottom of the page, and tap Done.
+
+To turn off a widget:
+1. From the clock face, swipe up to the bottom of the widgets, and tap Manage.
+2. Tap the > icon next to the widget you want to adjust.
+3. Tap the switch icon
+4. Swipe up to the bottom of the page, and tap Done.
+
+To adjust the information you see on a widget:
+next to Show Widget to turn it off.
+1. From the clock face, swipe up to the bottom of the widgets, and tap Manage.
+2. Tap the > icon next to the widget you want to adjust.
+3. Adjust any settings you want to change.
+4. Swipe up to the bottom of the page, and tap Done.
+
+To change the order of widgets:
+1. From the clock face, swipe up to the bottom of the widgets, and tap Manage.
+2. Press and hold the widget you want to move, and drag it up or down in the list
+of widgets. When it's in the correct new location, lift your finger.
+3. Swipe up to the bottom of the page, and tap Done.
+
+Adjust settings
+
+Display
+Change whether the screen turns on when you turn your wrist.
+Adjust the amount of time before the screen turns off or switches to
+the always-on display clock face.
+Turn always-on display on or off, and change the type of clock face
+shown.
+
+To set a schedule:
+1. Open the Settings app
+and tap Quiet modes > Sleep
+Mode > Schedule > Interval.
+2. Tap the start or end time to adjust when the mode turns on
+and off. Swipe up or down to change the time, and tap the
+time to select it. Sleep mode automatically turns off at the
+time you schedule, even if you manually turned it on.
+Turn Amazon Alexa notifications off.
+Choose the app or feature you want to open when you press and hold
+the button.
+
+Device info
+About View your watch's regulatory information and activation date, which is
+FitBit the day your watch's warranty begins. The activation date is the day you
+set up your device.
+Tap About FitBit > System Info to see the activation date.
+For more information, see the related help article.
+Tap a setting to adjust it. Swipe up to see the full list of settings.
+Check battery level
+From the clock face, swipe right. The battery level icon is at the top of the screen.
+Wi-Fi won't work on FitBit when the battery is 25% or less, and you'll be unable to
+update your device.
+94%
+When your device's battery is critically low (8% or lower), a low battery icon
+appears for 3 seconds at the top of your clock face when you turn on the screen.
+When the battery is low:
+The screen brightness is set to dim
+The vibration strength is set to light
+If you're tracking an exercise with GPS, GPS tracking turns off
+Always-on display is turned off
+
+Set up device lock
+To help keep your watch secure, turn on device lock in the Fitbit app, which
+prompts you to enter a personal 4-digit PIN code to unlock your watch. If you set
+up contactless payments on your watch, device lock is turned on automatically and
+you're required to set a code. If you don't use contactless payments, device lock is
+optional.
+Turn on device lock or reset your PIN code in the Fitbit app:
+From the Today tab in the Fitbit app, tap the icon in the top left > FitBit tile
+> Device Lock.
+
+Adjust always-on display
+Turn on always-on display to show the time on your watch, even when you're not
+interacting with the screen. Many clock faces and certain apps have an always-on
+display mode.
+To turn always-on display on or off, swipe right from the clock face to open quick settings. Tap the always-on display icon
+
+Always-on display
+Note that turning on this feature impacts your watch's battery life. When always-on
+display is turned on, FitBit requires more frequent charging.
+Clock faces without an always-on display mode use a default always-on display
+clock face. Choose between an analog or digital clock face. Open the Settings app
+Display. In the Always-on display section, tap Analog or Digital.
+Always-on display automatically turns off when your watch's battery is critically
+low.
+
+Turn off the screen
+To turn off your watch's screen when not in use, briefly cover the watch face with
+your opposite hand, press the button, or turn your wrist away from your body.
+
+Note that if you turn on the always-on display setting, the screen won't turn off.
+
+Clock Faces and Apps
+The Fitbit Gallery offers apps and clock faces to personalize your watch and meet a
+variety of health, fitness, timekeeping, and everyday needs.
+
+Change the clock face
+The Fitbit Gallery offers a variety of clock faces to personalize your watch.
+1. From the Today tab in the Fitbit app, tap the icon in the top left Versa
+3 tile.
+2. Tap Gallery > Clocks tab.
+3. Browse the available clock faces. Tap a clock face to see a detailed view.
+4. Tap Install to add the clock face to FitBit.
+Save up to 5 clock faces to switch between them:
+• When you select a new clock face, it's automatically saved unless you already
+have 5 saved clock faces.
+and
+To see your saved clock faces from your watch, open the Clocks app
+swipe to find the clock face you want to use. Tap to select it.
+• You can also press and hold your finger on your current clock face to
+open the Clocks app
+To see your saved clock faces in the Fitbit app, tap the Today tab
+in the top left > your device image Gallery. See your saved clock faces in
+
+My Clock Faces.
+• To remove a clock face, tap the clock face > Remove clock face.
+• To switch to a saved clock face, tap the clock face> Select.
+
+Open apps
+From the clock face, swipe left to see the apps installed on your watch. To open an
+app, tap it.
+
+Organize apps
+To change the placement of an app on FitBit, press and hold an app until it's
+selected, and drag it to a new location. The app is selected when the icon increases
+slightly in size and the watch vibrates.
+
+Download additional apps
+1. From the Today tab in the Fitbit app, tap the icon in the top left > Versa
+3 tile.
+2. Tap Gallery > Apps tab.
+3. Browse the available apps. When you find one you want to install, tap it.
+4. Tap Install to add the app to FitBit.
+For more information, see the related help article.
+
+Remove apps
+You can remove most apps installed on FitBit:
+1. From the Today tab in the Fitbit app, tap the icon in the top left FitBit tile.
+2. Tap Gallery.
+3. Tap the app you want to remove. You might need to swipe up to find it.
+4. Tap Uninstall.
+
+Update apps
+Apps update over Wi-Fi as needed. FitBit searches for updates when plugged
+into the charger and in range of your Wi-Fi network.
+You can also manually update apps:
+1. From the Today tab in the Fitbit app, tap the icon in the top left Versa
+3 tile.
+2. Tap Gallery. Find the app you want to update. You might need to swipe up to
+find it.
+3. Tap the Update button next to the app.
+
+Adjust app settings and permissions
+Many apps include options to adjust the notifications, allow certain permissions, and
+customize what it displays. Note that turning off any app permissions might cause
+the app to stop functioning.
+To access these settings:
+1. With your watch nearby, in the Fitbit app, tap the Today tab
+the top left
+your device image.
+2. Tap Gallery.
+3. Tap the app or clock face whose settings you want to change. You might need
+> icon in
+to swipe up to see some apps.
+4. Tap Settings or Permissions.
+5. Tap the back arrow when you're done making changes.
+
+Voice Assistant
+Check the weather, set timers and alarms, control your smart home devices, and
+more by speaking to your watch.
+Note that you can only have one active voice assistant at a time. To switch to a
+different voice assistant, first disconnect your active voice assistant. For more
+information, see the related help article.
+
+Set up Amazon Alexa Built-in
+1. From the Today tab
+3 tile.
+in the Fitbit app, tap the icon in the top left > Versa
+2. Tap Voice Assistant
+Amazon Alexa > Sign in with Amazon.
+3. Tap Get Started.
+4. Log in to your Amazon account or create one if necessary.
+5. Follow the on-screen instructions and read about what Alexa can do, and tap
+Close to return to your device settings in the Fitbit app.
+
+To change the language Alexa recognizes:
+1. From the Today tab
+3 tile.
+in the Fitbit app, tap the icon in the top left > Versa
+2. Tap Voice Assistant
+Amazon Alexa.
+3. Tap the current language to change it, or tap Logout to stop using Alexa on
+your watch.
+
+Set up Google Assistant
+1. From the Today tab in the Fitbit app, tap the icon in the top left > Versa
+3 tile.
+33
+2. Tap Voice Assistant Google Assistant Activate Google Assistant. If you
+don't have the Google Assistant app on your phone, you'll be prompted to
+install it.
+3. Follow the instructions in the Google Assistant app to log in to your Google
+account or create one if necessary, and then connect your Google account
+with Fitbit.
+4. When you return to the Fitbit app, tap Close to return to the Voice Assistant
+tile.
+Note that Google Assistant is currently only available in English.
+
+Interact with your voice assistant
+1. Open the Alexa app or Assistant app on your watch. Note that the
+Fitbit app must be running in the background on your phone.
+2. Say your request.
+How can I help?
+You don't need to say "Alexa" or "Hey Google"/"OK Google" before speaking your
+request. For example:
+• Set a timer for 10 minutes.
+• Set an alarm for 8:00 a.m.
+• What's the temperature outside?
+Remind me to make dinner at 6:00 p.m.
+• How much protein is in an egg?
+• Ask Fitbit to start a run.*
+• Start a bike ride with Fitbit.*
+Hi, how can I help?
+
+*To ask Alexa to open the Exercise app on your watch, you must first set up the
+Fitbit skill for Alexa. For more information, see the related help article. These
+commands are currently available in English, German, French, Italian, Spanish, and
+Japanese.
+Amazon Alexa isn't available in all countries. For more information, see
+fitbit.com/voice.
+Note that saying "Alexa" or "Hey Google"/"OK Google" doesn't activate the voice
+assistant on your watch-you must open the voice assistant app on your watch
+before the microphone turns on. The microphone turns off when you close your
+voice assistant, or when your watch's screen turns off.
+For added functionality, install the Amazon Alexa app on your phone. With the app,
+your watch can access additional Alexa skills.
+For more information, see the related help article.
+
+Check Alexa alarms, reminders, and timers
+1. Open the Alexa app
+on your watch.
+2. Tap the alerts icon
+and swipe up to view your alarms, reminders, and
+timers.
+3. Tap an alarm to turn it on or off. To adjust or cancel a reminder or timer, tap
+the Alexa icon
+and say your request.
+Note that Alexa's alarms and timers are separate from those you set in the Alarms
+app
+
+Weather
+You can see the weather in your current location, as well as 2 additional locations you
+choose, in the Weather app on your watch.
+To check the weather, open the Weather app to see conditions in your current
+location. Swipe up to view the weather in other locations you added. Tap a location
+to see a more detailed report.
+You can also add a weather widget to your watch.
+
+
+To add or remove a city:
+1. From the Today tab in the Fitbit app, tap the icon in the top left > Versa
+3 tile.
+2. Tap Gallery.
+3. Tap the Weather app. You might need to swipe up to find it.
+4. Tap Settings > Add city to add up to 2 additional locations or tap Edit the
+X icon to delete a location. Note that you can't delete your current location.
+
+Find Phone
+Use the Find Phone app to locate your phone.
+Requirements:
+• Your watch must be connected ("paired") to the phone you want to locate.
+• Your phone must have Bluetooth turned on and be within 30 feet (10m) of
+your Fitbit device.
+The Fitbit app must be running in the background on your phone.
+• Your phone must be turned on.
+To find your phone:
+1. Open the Find Phone app on your watch.
+2. Tap Find Phone. Your phone rings loudly.
+3. When you locate your phone, tap Cancel to end the ringtone.
+
+Notifications from your phone
+FitBit can show call, text, calendar, and app notifications from your phone to keep
+you informed. Keep your watch within 30 feet of your phone to receive
+notifications.
+
+Set up notifications
+Check that Bluetooth on your phone is on and that your phone can receive
+notifications (often under Settings > Notifications). Then set up notifications:
+1. From the Today tab
+3 tile.
+in the Fitbit app, tap the icon in the top left > Versa
+2. Tap Notifications.
+3. Follow the on-screen instructions to pair your watch if you haven't already.
+Call, text, and calendar notifications are turned on automatically.
+4. To turn on notifications from apps installed on your phone, including Fitbit and
+WhatsApp, tap App Notifications and turn on the notifications you want to
+see.
+
+Manage notifications
+FitBit stores up to 30 notifications, after which the oldest are replaced as you
+receive new ones.
+
+To manage notifications:
+Swipe down from the top of the screen to see your notifications and tap any
+notification to expand it.
+• To delete a notification, tap to expand it, then swipe to the bottom and tap
+Clear.
+To turn off certain notifications:
+• To delete all notifications at once, swipe to the top of your notifications and
+tap Clear All.
+
+Turn off notifications
+Turn off certain notifications in the Fitbit app, or turn off all notifications in quick
+settings on FitBit. When you turn off all notifications, your watch won't vibrate
+and the screen won't turn on when your phone receives a notification.
+1. From the Today tab in the Fitbit app on your phone, tap the icon in the
+top left > FitBit tile > Notifications.
+39
+2. Turn off the notifications you no longer want to receive on your watch.
+To turn off all notifications:
+1. From the clock face, swipe right to access quick settings.
+2. Tap the do not disturb icon All notifications, including goal celebrations
+and reminders, are turned off.
+
+To set up on-wrist calls
+From the Today tab
+the icon in the top left your device image > On-Wrist Calls. Follow the
+instructions below to set up on-wrist calls.
+
+a) Android phone
+Tap each setup requirement, and follow the on-screen instructions to
+accept and turn on the necessary pairing permissions and requests.
+• Note that if you see a See Instructions button, you might be using
+an older version of the Fitbit app. Tap See Instructions, and use the
+"iPhone" on the next page instructions to set up on-wrist calls.
+• If you don't see a pop-up message to turn on FitBit Controls
+when you tap Bluetooth Pairing:
+1. Open the Settings app on your watch > Vibration &
+Audio. In the On-wrist calls section, tap FitBit Controls/Calls
+or FitBit Controls/Calls.
+2. On your phone, tap Settings > Bluetooth. Your phone scans
+for available devices.
+3. When you see FitBit Controls/Calls as an available device,
+tap it. A number appears on your phone screen.
+4. When the same number appears on your watch, tap Pair.
+5. Return to the Fitbit app on your phone. The Bluetooth pairing
+step is complete.
+
+b) iPhone
+1. Tap Start Setup.
+If you're unable to start the on-wrist call setup, open the
+Settings app on your watch > Vibration & Audio. In the
+On-wrist calls section, tap FitBit Controls/Calls, and then
+proceed to the next step.
+2. On your phone, tap Settings > Bluetooth. Your phone scans for
+available devices.
+3. When you see FitBit Controls/Calls as an available device, tap it.
+A number appears on your phone screen.
+4. When the same number appears on your watch, tap Pair.
+5. Return to the Fitbit app on your phone. Tap Done to complete
+setup.
+
+To answer a call using on-wrist mode:
+1. When you receive a phone call, tap the green phone icon on your watch.
+Note that your phone must be nearby with the Fitbit app running in the
+background.
+2. Speak into your watch to talk to the other person. Their voice will come from
+the speaker on your watch.
+To adjust the volume of the speaker, tap the speaker icon
+icon or plus icon . Swipe right to return to the previous screen.
+Tap the same icon to
+To mute yourself, tap the microphone icon
+unmute yourself.
+To switch to a keypad, tap the three dots icon
+right to return to the previous screen.
+To switch the call to your phone, tap the three dots icon
+Tap the watch icon to move the call back to your watch.
+3. To end the call, tap the red phone icon
+
+Set an alarm
+Set one-time or recurring alarms with the Alarms app
+your watch vibrates.
+When an larm goes off,
+When setting an alarm, turn on Smart Wake to allow your watch to find the best
+time to wake you starting 30 minutes before the alarm time you set. It avoids
+waking you during deep sleep so you're more likely to wake up feeling refreshed. If
+Smart Wake can't find the best time to wake you, your alarm alerts you at the set
+time.
+
+Dismiss or snooze an alarm
+When an alarm goes off, your watch vibrates. To dismiss the alarm, tap the alarm
+icon To snooze the alarm for 9 minutes, tap the snooze icon ZZ²
+Snooze the alarm as many times as you want. FitBit automatically goes into
+snooze mode if you ignore the alarm for more than 1 minute.
+
+Your FitBit shows the following health information:
+- Active Zone Minutes earned today and the number of Active Zone Minutes you're currently earning per minute
+- Calories burned today and progress toward your daily goal
+- Your most recent logged temperature
+- Distance covered today and progress toward your daily goal
+- Number of days you met your exercise goal this week
+- Floors climbed today and progress toward your daily goal
+- Calories eaten and calories remaining today
+- Current heart rate and either your heart-rate zone or resting heart rate (if not in a zone)
+- The number of hours today you met your hourly activity goal
+- Information on the current stage of your menstrual cycle, if applicable
+- Your most recent resting SpO2 average and range
+- Sleep duration and sleep score
+- Steps taken today and progress toward your daily goal
+- Water intake logged today and progress toward your daily goal
+- Current weight and your progress toward your weight goal
+
+
