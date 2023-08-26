@@ -11,7 +11,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/home/user/key.json'
 data = pd.read_csv(
     "/home/user/Popular_Baby_Names.csv", header=0, sep=',')
 
-data2=data["""Child's First Name"""]=data["""Child's First Name"""].map(lambda x: x.title())
+data2=data["""Child's First Name"""].map(lambda x: x.title())
 
 cities=data2.unique()
 
