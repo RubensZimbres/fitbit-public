@@ -10,4 +10,7 @@ Guidelines:
 <b>  Set up Dialogflow</b>   
 <b>  Run</b> Dialogflow_add_names_entity_csv.py to populate entity names. Set up flows and choose Dialogflow Messenger in Integrations  
 <b>  Use</b> chatbot_html_embed.html to add Dialogflow Messenger to your website  
-<img src = "https://github.com/RubensZimbres/fitbit-public/blob/main/fitbit-2023-08-25-1851.png">
+<img src = "https://github.com/RubensZimbres/fitbit-public/blob/main/gdee.png">  
+
+<b> Architecture </b>
+<img src = "https://github.com/RubensZimbres/fitbit-public/blob/main/fitbit-2023-08-25-1851.png">  
