@@ -12,5 +12,8 @@ Guidelines:
 <b>  Use</b> chatbot_html_embed.html to add Dialogflow Messenger to your website  
 <img src = "https://github.com/RubensZimbres/fitbit-public/blob/main/gdee.png">  
 
+<b> MakerSuite </b>
+<img src = "https://github.com/RubensZimbres/fitbit-public/blob/main/makersuite.png">  
+
 <b> Architecture </b>
 <img src = "https://github.com/RubensZimbres/fitbit-public/blob/main/fitbit-2023-08-25-1851.png">  
