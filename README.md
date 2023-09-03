@@ -1,5 +1,7 @@
 # FitBit Support Chatbot
-
+  
+This project was part of the Maker Suite Sprint and creates a OCR processor to transcript FitBit User Manual PDF into a text file then uses Google Cloud Generative AI + Dialogflow to create a chatbot that answers questions about the FitBit User Manual.  
+  
 Guidelines:  
 <b>  Clone the repo</b>  
 <b>  Create a bucket</b>  
